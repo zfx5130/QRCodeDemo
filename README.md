@@ -3,4 +3,5 @@
 
 
 #######效果图如下
-![]()
+
+![](https://github.com/zfx5130/QRCodeDemo/blob/master/test.gif)
